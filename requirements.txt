@@ -1,0 +1,4 @@
+faiss
+langchain
+os
+pickle
